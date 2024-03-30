@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DIConsole
+namespace DI
 {
     public class Logger : ILogger
     {

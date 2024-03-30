@@ -1,4 +1,4 @@
-﻿namespace DIConsole
+﻿namespace DI
 {
     public enum CurrencyEnum
     {

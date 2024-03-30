@@ -1,6 +1,6 @@
-﻿namespace DIConsole
+﻿namespace DI
 {
-    public struct SalaryValue
+    public readonly struct SalaryValue
     {
         public SalaryValue(decimal amount, CurrencyEnum currency)
         {
